@@ -5,6 +5,20 @@
     xmlns:comp="http://virtubuil.com/schemas/comp.ecore"
     uuid="_8fNuADTNEeSDp-UE12WecQ" deletable="false"
     name="world" initialViewPoint="_x_QZwElnEeSga5qFy3girQ">
+  <variables xsi:type="comp:DeclaredVariable" uuid="_J6jVYCfIEeqETPhsnvigPg"
+      name="Variable" visibility="800">
+    <domain uuid="_J6jVYyfIEeqETPhsnvigPg" name="local"
+        visibility="300">
+      <typeSet uuid="_J6jVZSfIEeqETPhsnvigPg" bitSet="393231"/>
+    </domain>
+  </variables>
+  <variables xsi:type="comp:DeclaredVariable" uuid="_J6lKkCfIEeqETPhsnvigPg"
+      name="Variable1" visibility="800">
+    <domain uuid="_J6lKkyfIEeqETPhsnvigPg" name="local"
+        visibility="300">
+      <typeSet uuid="_J6lKlSfIEeqETPhsnvigPg" bitSet="393231"/>
+    </domain>
+  </variables>
   <role uuid="_qucXoHAAEeSk24oMIozLgA" name="insertfree"
       customType="insertfree">
     <domain uuid="_qucXoXAAEeSk24oMIozLgA" name="local"
